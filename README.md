@@ -3,9 +3,13 @@ Convert natural language queries into SQL using Ollama and execute them on a SQL
 
 # Tech Stack
 Python
+
 Streamlit
+
 Ollama
+
 SQLite
+
 Pandas
 
 # RUN
