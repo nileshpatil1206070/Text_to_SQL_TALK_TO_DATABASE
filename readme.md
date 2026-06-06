@@ -17,3 +17,7 @@ Used open source model qwen for generating the query.
 
 ```bash
 python -m streamlit run main.py
+
+## how does the app look
+
+![app screenshot](text_to_sql_project_1.png)
