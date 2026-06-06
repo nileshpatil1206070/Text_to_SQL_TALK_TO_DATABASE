@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Database
+student.db
+
+# VS Code
+.vscode/
+
+# Pipenv
+Pipfile.lock
+
+# Streamlit
+.streamlit/secrets.toml
